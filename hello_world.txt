@@ -1,0 +1,16 @@
+Hello world in python is simply:
+print("Hello world")
+
+Hello world in C is:
+#include <stdio.h>
+int main() {
+    printf("Hello world");
+    return 0;
+}
+
+Hello world in Java is:
+class HelloWorld {
+    public static void main (String[] args) {
+        system.out.println("Hello world")
+    }
+}
